@@ -1,4 +1,4 @@
-### Oii! Eu sou a Maria Luisa Raso!
+### Oii! Me chamo Maria Luisa Raso!
 
 
 - 💻  - Hoje atuo no front-end
