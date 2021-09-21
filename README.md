@@ -1,8 +1,8 @@
-### Oii! Eu sou a Maria luísa Raso!
+### Oii! Eu sou a Maria Luísa Raso!
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React/Typescript
+- 💻  Hoje atuo no front-end
+- 🧪  Estudando React/Typescript
 
  <div>
   <a href="https://github.com/rafaballerini">
