@@ -2,7 +2,7 @@
 
 
 - 💻  - Hoje atuo no front-end
-- 🧪  - Estudando React/Typescript
+- 🧪  - Estudando React e Typescript
 
  <div>
   <a href="https://github.com/rafaballerini">
