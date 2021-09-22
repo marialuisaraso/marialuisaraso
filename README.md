@@ -24,6 +24,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
    ##
   
   <div> 
+  
+   <h4>Entre em contato para me conhecer melhor em qualquer link abaixo!</h4>
     
   <a href="https://instagram.com/marialuisaraso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marialuisarasoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
