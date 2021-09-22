@@ -1,8 +1,9 @@
-### Oii! Me chamo Maria Luisa Raso!
+### Oii! 👋
 
 
 - 💻  - Hoje atuo no front-end
-- 🧪  - Estudando React e Typescript
+- ✨  - Estudando React e Typescript
+- 🇧🇷 - Belo Horizonte
 
  <div>
   <a href="https://github.com/rafaballerini">
