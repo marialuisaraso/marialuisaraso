@@ -1,8 +1,7 @@
 ### Oii! 👋
 
 
-- 💻  - Hoje atuo no front-end
-- ✨  - Estudando React e Typescript
+- ✨  - Estudando o universo WEB
 - 🇧🇷 - Belo Horizonte
 
  <div>
